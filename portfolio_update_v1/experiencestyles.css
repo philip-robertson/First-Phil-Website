@@ -78,7 +78,6 @@
   }
   
   .tag {
-    background-color;
     color: whitesmoke;
     padding: 5px;
     border-radius: 5px;
@@ -87,7 +86,6 @@
   } 
   .location {
     margin-top: 5px;
-    background-color;
     color: whitesmoke;
   }
   .card {
